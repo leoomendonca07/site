@@ -6,8 +6,8 @@
     font-family: 'Poppins', sans-serif;
     }
     .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #0062ff;
+    color: rgb(255, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -25,8 +25,7 @@
     width: 25%;
     }
     .escola{
-   background-color: ;
-    
+    background-color:rgb(0, 0, 0) ;
     color:white;
     display: flex;
     justify-content: center;
@@ -63,7 +62,7 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
     }
     .rodape{
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     text-align: center;
     }
     .rodape-imagem{
